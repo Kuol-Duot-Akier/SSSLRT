@@ -1,4 +1,3 @@
-# South-Sudan-Sign-Language-Recognition
 # 🤟 South Sudan Sign Language Recognition System
 
 A real-time sign language recognition system built with Python, MediaPipe, and LSTM. The project is focused on recognizing key signs from South Sudanese Sign Language (SSSL), with practical applications in healthcare communication and accessibility.
